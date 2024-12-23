@@ -1,0 +1,8 @@
+api_keys/
+latest_email.txt
+email_info.db
+__pycache__/
+env/
+img.png
+.vs/
+bin/
